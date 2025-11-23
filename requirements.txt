@@ -4,4 +4,6 @@ pyaudio
 faster-whisper
 PySide6
 torch
+whisper
+vosk
 
